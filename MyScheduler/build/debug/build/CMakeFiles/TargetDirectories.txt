@@ -1,0 +1,3 @@
+C:/Users/Karim/OneDrive/Desktop/DataCentar/ARM_course/New_STM32Cube_workspace/MyScheduler/build/debug/build/CMakeFiles/edit_cache.dir
+C:/Users/Karim/OneDrive/Desktop/DataCentar/ARM_course/New_STM32Cube_workspace/MyScheduler/build/debug/build/CMakeFiles/MyScheduler.dir
+C:/Users/Karim/OneDrive/Desktop/DataCentar/ARM_course/New_STM32Cube_workspace/MyScheduler/build/debug/build/CMakeFiles/rebuild_cache.dir

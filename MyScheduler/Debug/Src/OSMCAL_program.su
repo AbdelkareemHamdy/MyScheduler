@@ -1,0 +1,14 @@
+../Src/OSMCAL_program.c:35:6:InitTasksStack	16	static
+../Src/OSMCAL_program.c:91:6:Stack_voidEnableSystenFaultsExcp	4	static
+../Src/OSMCAL_program.c:96:6:_void2SavePSPValue	16	static
+../Src/OSMCAL_program.c:100:6:_voidUPdatenextFunction	16	static
+../Src/OSMCAL_program.c:119:10:_u32GetCurrentPSPValue	4	static
+../Src/OSMCAL_program.c:124:29:Stack_voidChangeToPSP	0	static,ignoring_inline_asm
+../Src/OSMCAL_program.c:137:30:Stack_voidGoUnprivileged	0	static,ignoring_inline_asm
+../Src/OSMCAL_program.c:145:30:Stack_voidSchedulerStackInit	0	static,ignoring_inline_asm
+../Src/OSMCAL_program.c:157:6:STK_voidInit	24	static
+../Src/OSMCAL_program.c:177:29:PendSV_Handler	0	static,ignoring_inline_asm
+../Src/OSMCAL_program.c:200:6:UnblockTasks	16	static
+../Src/OSMCAL_program.c:214:6:SysTick_Handler	8	static
+../Src/OSMCAL_program.c:225:6:TaskDelay	16	static
+../Src/OSMCAL_program.c:240:6:IdleTaskHandler	4	static
